@@ -1,0 +1,2 @@
+#define IDBITMAP_GLASS 100
+
